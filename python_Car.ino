@@ -86,4 +86,4 @@ if (state == '6'){
   digitalWrite(motorQ2, LOW);
 }
 }
-//written by Rahul MK
+//written by Vinayaka Raju S
