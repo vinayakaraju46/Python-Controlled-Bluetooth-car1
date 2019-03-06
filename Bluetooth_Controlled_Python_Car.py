@@ -21,14 +21,6 @@ port = 1
 
 
 
-
-
-
-
-
-
-
-
 class MyBtn(Button):
     # set function to call when pressed
     def set_down(self,fn):
