@@ -4,7 +4,7 @@ Four wheeled toy car controlled via bluetooth.The controller script is written i
 
 __Before running the code__
 
-Bluetooth Python extension module to allow Python ” “developers to use system Bluetooth resources. PyBluez works ” “with GNU/Linux and Windows XP.
+Install bluetooth Python extension module to allow Python ” “developers to use system Bluetooth resources. PyBluez works ” “with GNU/Linux and Windows XP.
 
 >pip install PyBluez
 
